@@ -33,3 +33,6 @@ npm run dev
 **Bhuvnesh Trivedi**  
 GitHub: [@Bhuvnesh-Trivedi](https://github.com/Bhuvnesh-Trivedi)
 
+## Output
+
+![alt text](image.png)
